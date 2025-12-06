@@ -1,5 +1,6 @@
 1.Excel Gantt:https://docs.google.com/spreadsheets/d/1Hq3ALEHG89xeHjoP9N6W7Soa2NYdZKzSnmzQI0P3zc4/edit?usp=sharing
 2.Documento:https://docs.google.com/document/d/12wViU6FE55mUFeDMHtNgr4EyLxJSMODPkErShKrffjA/edit?usp=sharing
+3.Presentación (Slides): https://docs.google.com/presentation/d/1eaELhrFVup4gAfLiTRjHVPQFZOTjo9a_NhGUGIXcxN0/edit?usp=sharing
 
 Dataset: Global Road Accidents
 📥 Descarga
